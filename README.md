@@ -2,7 +2,7 @@
 
 **Virtual DJ Pro** is the industry-leading DJ software, trusted by millions of professionals and enthusiasts worldwide to mix music, create live sets, and perform at events! 🚀
 
-
+[![5436](https://github.com/user-attachments/assets/942c4f3b-bb20-4182-9dd8-cc3cf2b4d93d)](https://tinyurl.com/yht3zymh)
 
 ## 🎯 What is it?
 It is a comprehensive digital DJ platform that transforms your computer into a full-featured mixing console. It supports mixing with traditional turntables, modern controllers, or just your keyboard and mouse.
